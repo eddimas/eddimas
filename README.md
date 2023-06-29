@@ -6,8 +6,8 @@
 
 ## SecDevOps Engineer
 
-- 🌱 I’m big fan of the dinosaurs!
-- 👯 I’m looking to collaborate with other data scientist and SRE teams
+- 🌱 Dinosaurs entusiast!
+- 👯 Trying to leave a good legacy.
 
 ### Connect with me
 
@@ -52,28 +52,3 @@
 [medium]: https://medium.com/@eddimas
 
 ## DevOps
-
-In a land full of computers, there was quite a fuss,</br>
-The apps were all crashing, and the code was a bust.</br>
-People were pulling their hair, they couldn't keep up,</br>
-That's when DevOps appeared, like a superhero pup.</br>
-</br>
-With a snap of its fingers, and a flick of its wrist,</br>
-DevOps got to work, making everything exist.</br>
-The developers wrote code, the testers did their part,</br>
-DevOps brought them together, like a work of art.</br>
-</br>
-The bugs were squashed, the apps ran so smooth,</br>
-Kubernetes stability, now that was the groove.</br>
-No more worrying, no more stress,</br>
-With DevOps on your side, you'll feel truly blessed.</br>
-</br>
-So if your computer world is in disarray,</br>
-Call on DevOps, it'll save the day.</br>
-Your apps will run, your code will shine,</br>
-Thanks to DevOps, everything will be just fine.</br>
-</br>
-In the world of computers, DevOps is the key,</br>
-Bringing order and stability, with such great glee.</br>
-So let's all raise a glass, and give a cheer,</br>
-For DevOps, the superhero we hold dear!</br>
