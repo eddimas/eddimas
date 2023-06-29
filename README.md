@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=eddimas" alt="eddimas" />
 
-[![Website](https://img.shields.io/website?label=datatobsn.com&style=for-the-badge&url=http%3A%2F%2Fdatatobsn.com)](http://datatobsn.com)
+[![Website](https://img.shields.io/website?label=mycloudbuddy.rocks&style=for-the-badge&url=http%3A%2F%2Fmycloudbuddy.rocks)](http://mycloudbuddy.rocks)
 
 ## SecDevOps Engineer
 
@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- ["blog entry one"](https://medium.com/@eddimas/)
-- ["blog entry two"](https://medium.com/@eddimas/)
-- ["blog entry three"](https://medium.com/@eddimas/)
+<!-- - ["blog entry one"](https://medium.com/@eddimas/) -->
+<!-- - ["blog entry two"](https://medium.com/@eddimas/) -->
+<!-- - ["blog entry three"](https://medium.com/@eddimas/) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-[website]: http://datatobsn.com
+[website]: http://mycloudbuddy.rocks
 [kaggle]: https://www.kaggle.com/eddimas
-[linkedin]: https://www.linkedin.com/in/jose_1987/
+[linkedin]: https://www.linkedin.com/in/josedimas1987/
 [medium]: https://medium.com/@eddimas
 
 ## DevOps
