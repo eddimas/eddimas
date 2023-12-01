@@ -1,6 +1,6 @@
 ### Hello, I'm Eduardo Dimas! 👋
 
-Welcome to my corner of the tech universe, where dinosaurs roam and code shapes the future.
+Step into my tech domain, where the fusion of ancient dinosaurs and cutting-edge code defines the future.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eddimas)
 
@@ -8,7 +8,7 @@ Welcome to my corner of the tech universe, where dinosaurs roam and code shapes 
 
 ## About Me
 
-I'm not your typical SecDevOps Engineer; I'm a tech enthusiast with a flair for the prehistoric. When I'm not securing systems or diving into the world of DevOps, you'll likely find me lost in the fascinating world of dinosaurs. Beyond the tech realm, my mission is to leave a lasting legacy—a digital footprint that echoes my commitment to excellence.
+I'm not your ordinary SecDevOps Engineer; instead, I'm a technology enthusiast with a keen interest in the field. When I'm not dedicated to securing systems or immersing myself in the intricacies of DevOps, you will often find me exploring the captivating realm of dinosaurs. Beyond the confines of technology, my goal is to create a lasting legacy—an online presence that reflects my unwavering commitment to excellence.
 
 ### Connect with Me
 
