@@ -12,11 +12,9 @@ I'm not your ordinary SecDevOps Engineer; instead, I'm a technology enthusiast w
 
 ### Connect with Me
 
-Feel free to join me on my tech adventures and connect through:
+Feel free to leave a message:
 
-- **Twitter:** [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-- **LinkedIn:** [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-- **Instagram:** [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **LinkedIn:** [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][http://linkedin.com/in/eddimas]
 
 Join me on this exciting journey, and let's make tech more engaging!
 
@@ -26,14 +24,15 @@ Join me on this exciting journey, and let's make tech more engaging!
 
 Here's a glimpse into my tech toolbox:
 
-- **PiHole:** [<img align="left" alt="PiHole" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pihole/pihole.png" />][website]
-- **NextCloud:** [<img align="left" alt="NextCloud" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg" />][website]
-- **Linux:** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />][website]
-- **DevOps Magic:** [<img align="left" alt="DevOps" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/devops/devops.png" />][website]
-- **Git & GitHub:** [<img align="left" alt="Git & GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][website]
-- **AWS & Terraform:** [<img align="left" alt="AWS & Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />][website]
-- **Kubernetes & Docker:** [<img align="left" alt="Kubernetes & Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />][website]
-- **Python:** [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][website]
+- **PiHole**
+- **NextCloud**
+- **Linux**
+- **DevOps**
+- **Git & GitHub**
+- **AWS, GCP and Azure**
+- **Terraform**
+- **Docker, Podman and k8s**
+- **Python**
 
 Discovering and mastering these tools is my ongoing quest for tech excellence.
 
