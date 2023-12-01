@@ -12,7 +12,7 @@ I'm not your ordinary SecDevOps Engineer; instead, I'm a technology enthusiast w
 
 Feel free to leave a message:
 
-- **LinkedIn:** (eddimas)[http://linkedin.com/in/eddimas]
+- **LinkedIn:** [eddimas](http://linkedin.com/in/eddimas)
 
 Join me on this exciting journey, and let's make tech more engaging!
 
