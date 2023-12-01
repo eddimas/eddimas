@@ -1,54 +1,56 @@
-### Hi, Eduardo -  [eddimas][website] 👋
+### Hello, I'm Eduardo Dimas! 👋
 
-<img src="https://komarev.com/ghpvc/?username=eddimas" alt="eddimas" />
+Welcome to my corner of the tech universe, where dinosaurs roam and code shapes the future.
+
+![Profile Views](https://komarev.com/ghpvc/?username=eddimas)
 
 [![Website](https://img.shields.io/website?label=mycloudbuddy.rocks&style=for-the-badge&url=http%3A%2F%2Fmycloudbuddy.rocks)](http://mycloudbuddy.rocks)
 
-## SecDevOps Engineer
+## About Me
 
-- 🌱 Dinosaurs entusiast!
-- 👯 Trying to leave a good legacy.
+I'm not your typical SecDevOps Engineer; I'm a tech enthusiast with a flair for the prehistoric. When I'm not securing systems or diving into the world of DevOps, you'll likely find me lost in the fascinating world of dinosaurs. Beyond the tech realm, my mission is to leave a lasting legacy—a digital footprint that echoes my commitment to excellence.
 
-### Connect with me
+### Connect with Me
 
-[<img align="left" alt="eddimas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="eddimas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="eddimas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+Feel free to join me on my tech adventures and connect through:
 
-<br />
+- **Twitter:** [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- **LinkedIn:** [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **Instagram:** [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+Join me on this exciting journey, and let's make tech more engaging!
+
+## Tech Toolbox
 
 ### Languages and Tools
 
-[<img align="left" alt="PiHole" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pihole/pihole.png" />][website]
-[<img align="left" alt="NextCloud" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg" />][website]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />][website]
-[<img align="left" alt="devops" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/devops/devops.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][website]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />][website]
-[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png" />][website]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />][website]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />][website]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][website]
+Here's a glimpse into my tech toolbox:
 
-<br />
-<br />
+- **PiHole:** [<img align="left" alt="PiHole" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pihole/pihole.png" />][website]
+- **NextCloud:** [<img align="left" alt="NextCloud" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextcloud_Logo.svg" />][website]
+- **Linux:** [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />][website]
+- **DevOps Magic:** [<img align="left" alt="DevOps" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/devops/devops.png" />][website]
+- **Git & GitHub:** [<img align="left" alt="Git & GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][website]
+- **AWS & Terraform:** [<img align="left" alt="AWS & Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />][website]
+- **Kubernetes & Docker:** [<img align="left" alt="Kubernetes & Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />][website]
+- **Python:** [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />][website]
+
+Discovering and mastering these tools is my ongoing quest for tech excellence.
 
 ---
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - ["blog entry one"](https://medium.com/@eddimas/) -->
-<!-- - ["blog entry two"](https://medium.com/@eddimas/) -->
-<!-- - ["blog entry three"](https://medium.com/@eddimas/) -->
+<!-- - ["Blog Entry One"](https://medium.com/@eddimas/) -->
+<!-- - ["Blog Entry Two"](https://medium.com/@eddimas/) -->
+<!-- - ["Blog Entry Three"](https://medium.com/@eddimas/) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 [website]: http://mycloudbuddy.rocks
-[kaggle]: https://www.kaggle.com/eddimas
+[twitter]: https://twitter.com/eddimas
 [linkedin]: https://www.linkedin.com/in/josedimas1987/
-[medium]: https://medium.com/@eddimas
-
-## DevOps
+[instagram]: https://www.instagram.com/eddimas/
+[kaggle]: https://www.kaggle.com/eddimas
