@@ -4,8 +4,6 @@ Step into my tech domain, where the fusion of ancient dinosaurs and cutting-edge
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eddimas)
 
-[![Website](https://img.shields.io/website?label=mycloudbuddy.rocks&style=for-the-badge&url=http%3A%2F%2Fmycloudbuddy.rocks)](http://mycloudbuddy.rocks)
-
 ## About Me
 
 I'm not your ordinary SecDevOps Engineer; instead, I'm a technology enthusiast with a keen interest in the field. When I'm not dedicated to securing systems or immersing myself in the intricacies of DevOps, you will often find me exploring the captivating realm of dinosaurs. Beyond the confines of technology, my goal is to create a lasting legacy—an online presence that reflects my unwavering commitment to excellence.
@@ -14,7 +12,7 @@ I'm not your ordinary SecDevOps Engineer; instead, I'm a technology enthusiast w
 
 Feel free to leave a message:
 
-- **LinkedIn:** [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][http://linkedin.com/in/eddimas]
+- **LinkedIn:** (eddimas)[http://linkedin.com/in/eddimas]
 
 Join me on this exciting journey, and let's make tech more engaging!
 
@@ -35,6 +33,11 @@ Here's a glimpse into my tech toolbox:
 - **Python**
 
 Discovering and mastering these tools is my ongoing quest for tech excellence.
+
+## Sites
+
+[![Website](https://img.shields.io/website?label=eduardodimas.com&style=for-the-badge&url=http%3A%2F%2Feduardodimas.com)](http://eduardodimas.com)
+[![Website](https://img.shields.io/website?label=mycloudbuddy.rocks&style=for-the-badge&url=http%3A%2F%2Fmycloudbuddy.rocks)](http://mycloudbuddy.rocks)
 
 ---
 
